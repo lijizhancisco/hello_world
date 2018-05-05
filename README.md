@@ -2,4 +2,4 @@
 just trying to learn to use github
 Lijian Zhang
 Amy Feng
-This comment added by master branch
+This is git tutorial & readme
